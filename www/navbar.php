@@ -10,6 +10,12 @@
                 <li><a href="#" class="text-gray-300 hover:text-white">Zeldzame Pokémon</a></li>
                 <li><a href="#" class="text-gray-300 hover:text-white">Over Ons</a></li>
                 <li><a href="#" class="text-gray-300 hover:text-white">Contact</a></li>
+                <li><a href="index.php?type=elektrisch" class="text-gray-300 hover:text-white">Elektrisch</a></li>
+                <li><a href="index.php?type=vuur" class="text-gray-300 hover:text-white">Vuur</a></li>
+                <li><a href="index.php?type=water" class="text-gray-300 hover:text-white">Water</a></li>
+                <li><a href="index.php?type=gras" class="text-gray-300 hover:text-white">Gras</a></li>
+                <li><a href="index.php?type=normaal" class="text-gray-300 hover:text-white">Normaal</a></li>
+                <li><a href="index.php?type=psychisch" class="text-gray-300 hover:text-white">Psychisch</a></li>
             </ul>
         </div>
     </nav>
